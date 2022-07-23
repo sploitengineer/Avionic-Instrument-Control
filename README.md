@@ -1,4 +1,4 @@
-# AvionicsInstrumentControl is a Open Source Project devlop by Chootair
+# AvionicsInstrumentControl is a Open Source Project devloped by Chootair
 
 Original Link - https://www.codeproject.com/Articles/27411/C-Avionic-Instrument-Controls.
 
